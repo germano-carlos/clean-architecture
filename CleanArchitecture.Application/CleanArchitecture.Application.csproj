@@ -11,10 +11,4 @@
       <ProjectReference Include="..\CleanArchitecture.Core\CleanArchitecture.Core.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="DTOs\" />
-      <Folder Include="Interfaces\" />
-      <Folder Include="Validators\" />
-    </ItemGroup>
-
 </Project>
